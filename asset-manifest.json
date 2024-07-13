@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/static/css/main.7336f161.css",
+    "main.js": "/static/js/main.279675cb.js",
+    "static/js/688.742b5252.chunk.js": "/static/js/688.742b5252.chunk.js",
+    "static/js/964.d352a3c7.chunk.js": "/static/js/964.d352a3c7.chunk.js",
+    "static/media/soso.jpg": "/static/media/soso.41e6cc56b0b5aba7b9c4.jpg",
+    "static/media/good.jpg": "/static/media/good.43811c4b9db2d09491c5.jpg",
+    "static/media/bad.jpg": "/static/media/bad.a7ee87251e150ae35503.jpg",
+    "static/media/verybad.jpg": "/static/media/verybad.aa40295c2bebfdbd7d1a.jpg",
+    "static/media/verygood.jpg": "/static/media/verygood.de290d3790034b105b4c.jpg",
+    "static/media/ifgoiano_v2.png": "/static/media/ifgoiano_v2.4d83be1bbda75e152483.png",
+    "index.html": "/index.html",
+    "main.7336f161.css.map": "/static/css/main.7336f161.css.map",
+    "main.279675cb.js.map": "/static/js/main.279675cb.js.map",
+    "688.742b5252.chunk.js.map": "/static/js/688.742b5252.chunk.js.map",
+    "964.d352a3c7.chunk.js.map": "/static/js/964.d352a3c7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7336f161.css",
+    "static/js/main.279675cb.js"
+  ]
+}
